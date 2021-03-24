@@ -1,0 +1,4 @@
+{
+  "uuid":["28ad95e0-0c2e-4468-a02b-67ba3820080b"],
+  "tag":"fenrir", "flavour":"", "baseUpgrades":{"melee":10.0}, "renderAdditions":["bayonet_attachment","dev_bayonet","dev_scope"]
+}
